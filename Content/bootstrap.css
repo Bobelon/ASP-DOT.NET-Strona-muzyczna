@@ -365,8 +365,9 @@ img {
   border-radius: 6px;
 }
 
-img-rounded2 {
-    max-width: 30px;
+.img-rounded2 {
+    border-radius: 6px;
+    width: 40%;
 }
 
 .img-thumbnail {
